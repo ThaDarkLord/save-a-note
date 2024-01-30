@@ -12,3 +12,4 @@ The proper way to use this application is to utilize the link click get started 
 
 ![gif of note taker application](./public/assets/11-express-homework-demo.gif)
 
+deployed application : https://save-a-note-f7329a29b01b.herokuapp.com/
